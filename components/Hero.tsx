@@ -24,7 +24,7 @@ export function Hero() {
         <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
           <a
             href="#download"
-            className="w-full rounded-full bg-gradient-to-r from-accent to-accent-2 px-7 py-3.5 text-sm font-semibold text-black transition-transform hover:scale-105 sm:w-auto"
+            className="w-full rounded-full bg-gradient-to-r from-accent to-accent-2 px-7 py-3.5 text-sm font-semibold text-white transition-transform hover:scale-105 sm:w-auto"
           >
             Download for Windows
           </a>

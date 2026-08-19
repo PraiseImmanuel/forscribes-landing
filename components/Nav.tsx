@@ -28,7 +28,7 @@ export function Nav() {
     >
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
         <a href="#top" className="flex items-center gap-2">
-          <span className="grid h-7 w-7 place-items-center rounded-lg bg-gradient-to-br from-accent to-accent-2 text-xs font-bold text-black">
+          <span className="grid h-7 w-7 place-items-center rounded-lg bg-gradient-to-br from-accent to-accent-2 text-xs font-bold text-white">
             FS
           </span>
           <span className="text-sm font-semibold tracking-tight">

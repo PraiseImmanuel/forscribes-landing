@@ -86,7 +86,7 @@ export function ExportVisual() {
           <span className="rounded-full border border-border px-3 py-1 text-xs font-semibold text-muted">
             .md
           </span>
-          <span className="rounded-full bg-gradient-to-r from-accent to-accent-2 px-3 py-1 text-xs font-semibold text-black">
+          <span className="rounded-full bg-gradient-to-r from-accent to-accent-2 px-3 py-1 text-xs font-semibold text-white">
             .docx
           </span>
         </div>

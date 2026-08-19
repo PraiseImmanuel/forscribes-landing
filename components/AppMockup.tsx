@@ -52,7 +52,7 @@ export function AppMockup() {
               />
             ))}
             <div className="mt-2 flex gap-2">
-              <span className="rounded-full bg-gradient-to-r from-accent to-accent-2 px-2.5 py-1 text-[10px] font-semibold text-black">
+              <span className="rounded-full bg-gradient-to-r from-accent to-accent-2 px-2.5 py-1 text-[10px] font-semibold text-white">
                 9.2 relevance
               </span>
               <span className="rounded-full border border-border px-2.5 py-1 text-[10px] text-muted">

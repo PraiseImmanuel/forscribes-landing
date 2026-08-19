@@ -15,7 +15,7 @@ export function DownloadCta() {
 
         <a
           href="https://github.com/PraiseImmanuel/forscribes/releases/latest"
-          className="mt-9 inline-flex rounded-full bg-gradient-to-r from-accent to-accent-2 px-8 py-4 text-sm font-semibold text-black transition-transform hover:scale-105"
+          className="mt-9 inline-flex rounded-full bg-gradient-to-r from-accent to-accent-2 px-8 py-4 text-sm font-semibold text-white transition-transform hover:scale-105"
         >
           Download for Windows
         </a>
