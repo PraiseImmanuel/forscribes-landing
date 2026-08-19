@@ -21,7 +21,7 @@ export function DownloadCta() {
         </a>
 
         <p className="mt-4 text-xs text-muted">
-          Windows 10 or later · ~155MB download
+          Windows 10 & 11 · ~155MB download
         </p>
       </Reveal>
     </section>
