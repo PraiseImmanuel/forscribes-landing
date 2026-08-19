@@ -14,14 +14,14 @@ export function DownloadCta() {
         </p>
 
         <a
-          href="https://github.com/PraiseImmanuel/forscribes/releases/latest"
+          href="/download"
           className="mt-9 inline-flex rounded-full bg-gradient-to-r from-accent to-accent-2 px-8 py-4 text-sm font-semibold text-white transition-transform hover:scale-105"
         >
           Download for Windows
         </a>
 
         <p className="mt-4 text-xs text-muted">
-          Windows 10 or later · ~200MB download
+          Windows 10 or later · ~155MB download
         </p>
       </Reveal>
     </section>
